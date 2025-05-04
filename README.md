@@ -5,13 +5,14 @@ Welcome! I'm Lin, a passionate software engineer with **10+ years** crafting **s
 ## 🚀 What I Do
 - **Mobile Dev**: iOS (Swift/Objective-C), Flutter, React Native
 - **Frontend**: React.js (TypeScript), Vue.js (TypeScript)
-- **Backend**: Python (Django, FastAPI), PHP (Laravel), Node.js
+- **Backend**: Python (Django, FastAPI), Node.js
+- **LLM**: Langchain, Langgraph, N8N Automation, Cursor.
 - **Cloud & DevOps**:
   - **AWS**: EC2, S3, Lambda, DynamoDB, Elastic Load Balancer (ELB), SQS, SNS
   - **Middleware & Caching**: RabbitMQ, AWS SQS, Redis
   - **Web Servers**: Nginx for load balancing and reverse proxy
-  - **Tools**: CI/CD pipelines, Git, Docker, Kubernetes
-- **Protocols**: WebSocket, BLE, Wi-Fi, MQTT
+  - **Tools**: CI/CD pipelines, Git, Github Actions, Docker, Kubernetes
+- **Protocols**: Https/WebSocket, BLE, Wi-Fi, MQTT
 - **Certifications**: AWS Certified Solutions Architect – Professional
 
 I love architecting high-performance, distributed systems and sharing knowledge through open-source contributions.
