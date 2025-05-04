@@ -1,3 +1,10 @@
+## 👋 Hello!
+
+Welcome to my GitHub!  
+![Profile Views](https://profile-counter.glitch.me/51bitquant/count.svg)
+
+Feel free to explore my projects, contribute, or connect with me.  
+Happy coding!
 # 👨‍💻 Lin | Senior Full-Stack & Mobile Developer
 
 Welcome! I'm Lin, a passionate software engineer with **10+ years** crafting **scalable mobile apps** and **full-stack systems**. I thrive on building robust, cross-platform solutions and contributing to **open-source** projects, particularly in **quantitative trading automation**.
