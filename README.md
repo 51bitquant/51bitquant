@@ -11,9 +11,9 @@ Welcome! I'm Lin, a passionate software engineer with **10+ years** crafting **s
 
 ## 🚀 What I Do
 - **LLM**: Langchain, Langgraph, N8N Automation, Cursor.
-- **Mobile Dev**: iOS (Swift/Objective-C), Flutter, React Native
-- **Frontend**: React.js (TypeScript), Vue.js (TypeScript)
-- **Backend**: Python (Django, FastAPI), Node.js
+- **Mobile Dev**: iOS (Swift/Objective-C), Flutter (MVVM)
+- **Frontend**: React.js (TypeScript), Ant Design
+- **Backend**: Dotnet, Python (Django, FastAPI), Node.js
 - **Cloud & DevOps**:
   - **AWS**: EC2, S3, Lambda, DynamoDB, Elastic Load Balancer (ELB), SQS, SNS
   - **Middleware & Caching**: RabbitMQ, AWS SQS, Redis
