@@ -5,26 +5,6 @@ Welcome to my GitHub!
 
 Feel free to explore my projects, contribute, or connect with me.  
 Happy coding!
-# 👨‍💻 Lin | Senior Full-Stack & Mobile Developer
-
-Welcome! I'm Lin, a passionate software engineer with **10+ years** crafting **scalable mobile apps** and **full-stack systems**. I thrive on building robust, cross-platform solutions and contributing to **open-source** projects, particularly in **quantitative trading automation**.
-
-## 🚀 What I Do
-- **LLM**: Langchain, Langgraph, N8N Automation, Cursor.
-- **Mobile Dev**: iOS (Swift/Objective-C), Flutter (MVVM)
-- **Frontend**: React.js (TypeScript), Ant Design
-- **Backend**: Dotnet, Python (Django, FastAPI), Node.js
-- **Cloud & DevOps**:
-  - **AWS**: EC2, S3, Lambda, DynamoDB, Elastic Load Balancer (ELB), SQS, SNS
-  - **Middleware & Caching**: RabbitMQ, AWS SQS, Redis
-  - **Web Servers**: Nginx for load balancing and reverse proxy
-  - **Tools**: CI/CD pipelines, Git, Github Actions, Docker, Kubernetes
-- **Protocols**: Https/WebSocket, BLE, Wi-Fi, MQTT
-- **Certifications**: AWS Certified Solutions Architect – Professional
-
-I love architecting high-performance, distributed systems and sharing knowledge through open-source contributions.
-
----
 
 ## 📊 GitHub Stats
 
@@ -50,7 +30,7 @@ I love architecting high-performance, distributed systems and sharing knowledge 
   A lightweight grid trading bot for Binance with CLI and REST API support.  
   ⭐ *Automate your crypto trades with ease.*
 
-- **[Multi-Pair Martingale Bot](https://github.com/51bitquant/multi_pairs_martingale_bot)**  
+- **[Multi-Pair Martingle Bot](https://github.com/51bitquant/multi_pairs_martingle_bot)**  
   A versatile bot for futures and spot markets, handling multiple trading pairs.  
   ⭐ *Test sophisticated trading strategies.*
 
